@@ -1,0 +1,3 @@
+nums = [5, 3, 9, 1]
+nums.sort()
+print(nums)
